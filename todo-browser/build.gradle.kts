@@ -18,6 +18,7 @@ kotlin {
                 implementation(project(":todo-core"))
                 implementation(asoft("viewmodel-react", vers.asoft.viewmodel))
                 implementation(asoft("reakt-media", vers.asoft.reakt))
+                implementation(asoft("reakt-text", vers.asoft.reakt))
                 implementation(asoft("form-react", vers.asoft.form))
                 implementation(asoft("reakt-buttons", vers.asoft.reakt))
             }
