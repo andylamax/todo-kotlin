@@ -1,0 +1,4 @@
+package todo
+
+class TodoApp {
+}
